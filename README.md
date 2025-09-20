@@ -1,1 +1,2 @@
-Divya
+html
+JavaScript 
